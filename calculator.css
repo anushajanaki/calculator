@@ -1,0 +1,21 @@
+body{
+    background-color:plum;
+}
+h1{
+    background-color:magenta;
+    display: inline;
+}
+tr{
+    background-color:red;
+}
+.button.black
+{
+    color:black;
+    background-color:cornflowerblue;
+    
+}
+.button.pink
+{
+    color:white;
+    background-color:grey;
+}
